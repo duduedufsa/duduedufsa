@@ -1,19 +1,11 @@
- ### Olá sou Eduardo Freitas👋🏾 
-    
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-freitas-453b981a5/) 
- [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudu.freittas_/) 
-  [![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dudu_freittas_) 
-   
-    
-![duduedufsa](https://github-readme-stats.vercel.app/api?username=duduedufsa&show_icons=true&theme=radical)
- 
- ## Tecnologias que eu uso no meu dia  
-   
-   <div style="display: inline_block"><br/> 
-    <img align="center alt="alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit" /> <div style="display: inline_block"> 
-    <img align="center alt="alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><div style="display: inline_block"><img align="center alt="alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><div style="display: inline_block"><img align="center alt="alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><div style="display: inline_block"><img align="center alt="alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>   
-</div><br/>
-  
-   ## Apaixonado por tecnologia, educação e por mudar a vida de pessoas através da programação. 
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-      
+### Hi 👋 Eduardo
+I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
+- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
+- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
