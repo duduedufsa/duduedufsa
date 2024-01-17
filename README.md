@@ -1,10 +1,10 @@
-### Oi 👋 Eduardo, criadora de conteúdo de programação e tecnologia!
+### Oi 👋 Sou Eduardo, criadora de conteúdo de programação e tecnologia!
 Sou recém-formado em engenharia em busca de oportunidades e colaboração em projetos relacionados à ciência de dados e aprendizado profundo. 
 
 - 🔭 Atualmente estou trabalhando na classificação de imagens (além disso, estou aprimorando minhas estruturas de dados e habilidades em algoritmos regularmente).
 - 🌱 Atualmente estou aprendendo técnicas de Visão Computacional e Deep Learning usando PyTorch.
 - 🤝 Procuro colaborar em projetos de ciência de dados e aprendizagem profunda.
-- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="duduedufsa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="duduedufsa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
